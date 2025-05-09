@@ -48,7 +48,7 @@ _Note: Some advanced features are planned for future implementation._
 
 2. Start the frontend application:
    cd ../frontend
-   npm start
+   npm run dev
 
 3. Open your browser and navigate to `http://localhost:3000`.
 
